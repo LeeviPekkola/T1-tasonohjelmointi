@@ -1,0 +1,19 @@
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\bin\Debug\net5.0-windows\Harjoitus 11.exe
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\bin\Debug\net5.0-windows\Harjoitus 11.deps.json
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\bin\Debug\net5.0-windows\Harjoitus 11.runtimeconfig.json
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\bin\Debug\net5.0-windows\Harjoitus 11.runtimeconfig.dev.json
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\bin\Debug\net5.0-windows\Harjoitus 11.dll
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\bin\Debug\net5.0-windows\ref\Harjoitus 11.dll
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\bin\Debug\net5.0-windows\Harjoitus 11.pdb
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.csproj.AssemblyReference.cache
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus_11.Form1.resources
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus_11.Properties.Resources.resources
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.csproj.GenerateResource.cache
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.AssemblyInfoInputs.cache
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.AssemblyInfo.cs
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.csproj.CoreCompileInputs.cache
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.dll
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\ref\Harjoitus 11.dll
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.pdb
+C:\Users\Vesuri\source\repos\Harjoitus 11\Harjoitus 11\obj\Debug\net5.0-windows\Harjoitus 11.genruntimeconfig.cache
