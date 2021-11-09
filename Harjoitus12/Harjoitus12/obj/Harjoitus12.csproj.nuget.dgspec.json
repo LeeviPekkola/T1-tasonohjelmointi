@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vesuri\\source\\repos\\Harjoitus12\\Harjoitus12\\Harjoitus12.csproj": {}
+    "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus12\\Harjoitus12\\Harjoitus12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vesuri\\source\\repos\\Harjoitus12\\Harjoitus12\\Harjoitus12.csproj": {
+    "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus12\\Harjoitus12\\Harjoitus12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vesuri\\source\\repos\\Harjoitus12\\Harjoitus12\\Harjoitus12.csproj",
+        "projectUniqueName": "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus12\\Harjoitus12\\Harjoitus12.csproj",
         "projectName": "Harjoitus12",
-        "projectPath": "C:\\Users\\Vesuri\\source\\repos\\Harjoitus12\\Harjoitus12\\Harjoitus12.csproj",
-        "packagesPath": "C:\\Users\\Vesuri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vesuri\\source\\repos\\Harjoitus12\\Harjoitus12\\obj\\",
+        "projectPath": "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus12\\Harjoitus12\\Harjoitus12.csproj",
+        "packagesPath": "C:\\Users\\saarn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus12\\Harjoitus12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vesuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saarn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

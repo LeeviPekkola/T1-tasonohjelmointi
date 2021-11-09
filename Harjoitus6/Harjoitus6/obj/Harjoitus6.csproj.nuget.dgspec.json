@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vesuri\\source\\repos\\Harjoitus6\\Harjoitus6\\Harjoitus6.csproj": {}
+    "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus6\\Harjoitus6\\Harjoitus6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vesuri\\source\\repos\\Harjoitus6\\Harjoitus6\\Harjoitus6.csproj": {
+    "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus6\\Harjoitus6\\Harjoitus6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vesuri\\source\\repos\\Harjoitus6\\Harjoitus6\\Harjoitus6.csproj",
+        "projectUniqueName": "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus6\\Harjoitus6\\Harjoitus6.csproj",
         "projectName": "Harjoitus6",
-        "projectPath": "C:\\Users\\Vesuri\\source\\repos\\Harjoitus6\\Harjoitus6\\Harjoitus6.csproj",
-        "packagesPath": "C:\\Users\\Vesuri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vesuri\\source\\repos\\Harjoitus6\\Harjoitus6\\obj\\",
+        "projectPath": "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus6\\Harjoitus6\\Harjoitus6.csproj",
+        "packagesPath": "C:\\Users\\saarn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saarn\\source\\repos\\T1-tasonohjelmointi\\Harjoitus6\\Harjoitus6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vesuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saarn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
