@@ -1,0 +1,97 @@
+Bmi-Laskuri 
+
+Sisällysluettelo 
+
+1. Johdanto 
+
+2. Käyttötapaus esimerkkejä 
+
+3. Käyttäjäryhmät 
+
+4. Sovelluksen lataaminen ja käyttö 
+
+5. Projektisuunnitelma 
+
+6. Vaatimusmäärittelyt 
+
+7. Kehittäjän omat kokemukset 
+
+ 
+
+1. Johdanto 
+
+Projektin tarkoituksena on luoda Bmi-laskuri. 
+
+Bmi (BodyMassIndex) laskurilla voidaan laskea ihmisen paino indeksi. 
+
+Sovellus laskee paino indeksin tarkan luvun sekä antaa kuvauksen paino indeksistä, kuvaukseen on neljä vaihtoehtoa : Alipaino, Normaalipaino, ylipaino sekä merkittävä ylipaino.  
+
+Nykyiseen 1.0 versioon syötetään vain ihmisen paino ja pituus, jonka jälkeen kone laskee automaattisesti paino indeksin. 
+
+ 
+
+    2. Käyttötapaus esimerkkejä 
+
+Ihminen on huolissaan omasta painostaan ja halua tietää oman paino indeksinsä. 
+
+Ihmisellä on sairaus joka voi helposti lihottaa tai laihduttaa jolloin on hyvä pitää paino indeksi ajantasalla. 
+
+Ihminen haluaa muuten vain tietää oman painon terveydentason ja laskee oman painoindeksinsä sovelluksen avulla. 
+
+ 
+
+    3. Käyttäjäryhmä 
+
+Bmi-laskurin Käyttäjä ryhmänä toimii normaalisti n. yli 12vuotta täyttäneet aina vanhuksiin asti. 
+
+Sovelluksessa saatta kuitenkin ilmetä nuorempiakin käyttäjiä sillä se on kuitenkin sallittu kaiken ikäisten käytettäväksi. 
+
+ 
+
+    4. Sovelluksen lataaminen ja käyttö 
+
+Sovellus on ilmainen. 
+
+Sovelluksen pääse lataamaan suoraan netistä Bmi-laskuri nimellä. 
+
+Bmi-laskuri on todella helppo käyttöinen ja soveltuu kaiken ikäisille. 
+
+Sovellusta pystyy käyttämään puhelimella sekä tietokoneella. 
+
+ 
+
+    5. Projektisuunnitelma 
+
+-Ulkoasun suunnittelu 
+
+-Värien valinta 
+
+-Kirjainten fontin valinta 
+
+-Käyttäjien suunnasta katsottuna sovelluksen ulkoasua 
+
+-Ulkoasun tekeminen 
+
+-Koodin tekeminen ja sovellus pystyyn 
+
+-Lopullisen version testaaminen 
+
+-Lopullisentyön julkaisu 
+
+ 
+
+    6. Vaatimus määrittelyt 
+
+-Käyttäjän on pystyttävä laskemaan oma paino indeksi helposti ja vaivattomasti 
+
+-Käyttäjän on pystyttävä lataamaan sovellus vaivattomasti. 
+
+ 
+
+    7. Kehittäjän Omat kokemukset 
+
+Sain sovelluksella helposti laskettua oman paino indeksini ja sitä on ollut helppo seurata sovelluksella. 
+
+ 
+
+ 
